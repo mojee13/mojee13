@@ -1,7 +1,6 @@
 ### Hi👋
 
-Master's degree student in Physics
-University of Padua
+Master's degree student in Physics at University of Padua
 
 ### Contact info:
 * E-mail: mojtaba.roshana@studenti.unipd.it , roshana.mojtaba13@gmail.com
