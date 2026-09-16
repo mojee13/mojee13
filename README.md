@@ -1,15 +1,15 @@
 # Mojtaba Roshana 👋
 
-PhD Student in Physics | University of Padua
+PhD Student in Physics | Padua University
 
 ---
 
 ### About Me
-I am a Physicist and Data Scientist at the **University of Padua**, working on the modeling and analysis of critical behavior in human-made multilayer complex systems.
+I am a Physicist and Data Scientist at **Padua University**, working on the modeling and analysis of critical behavior in human-made multilayer complex systems.
 
-* 🎓 **PhD Topic**: Modeling and Analysis of Critical Behavior in Human-Made Multilayer Complex Systems (DFA, Padua)
+* 🎓 **Affiliation**: Department of Physics and Astronomy, Padua University (Italy)
+* 🔬 **Lab**: Member of **CoMuNe Lab** (Complex Multilayer Networks Lab)
 * 🔬 **Focus Areas**: Complex Multilayer Networks, Information Dynamics, Mammalian Connectomes, Statistical Physics, Generative Models (cGAN), Distributed Computing
-* 🏛️ **Affiliations**: Member of Complex Multilayer Networks Lab & Padua Center for Network Medicine
 
 ---
 
@@ -39,7 +39,7 @@ I am a Physicist and Data Scientist at the **University of Padua**, working on t
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-### ⚡ Distributed Computing, Computing Tools & Familiar With
+### ⚡ Distributed Computing & Tools
 ![Dask](https://img.shields.io/badge/Dask-FDA06B?style=for-the-badge&logo=dask&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge)
 ![ADQL](https://img.shields.io/badge/ADQL-Astronomical_Query-00599C?style=for-the-badge)
